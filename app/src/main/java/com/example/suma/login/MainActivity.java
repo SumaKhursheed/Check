@@ -22,7 +22,7 @@ import java.util.ArrayList;
 public class MainActivity extends AppCompatActivity {
 
 
-    EditText editEmail, editPassword, editName;
+    EditText editEmail, editPassword, editName,edit;
     Button btnSignIn, btnRegister;
 
     String URL= "http://192.168.0.43:80/test_android/index.php";
