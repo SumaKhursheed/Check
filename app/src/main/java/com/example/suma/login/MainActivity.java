@@ -42,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
         editPassword=(EditText)findViewById(R.id.editPassword);
 
         btnSignIn=(Button)findViewById(R.id.btnSignIn);
+        btnSignIn=(Button)findViewById(R.id.btnSignIn);
         btnRegister=(Button)findViewById(R.id.btnRegister);
 
         btnSignIn.setOnClickListener(new View.OnClickListener() {
