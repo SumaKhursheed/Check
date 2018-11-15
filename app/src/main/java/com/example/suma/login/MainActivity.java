@@ -39,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
         editEmail=(EditText)findViewById(R.id.editEmail);
         editName=(EditText)findViewById(R.id.editName);
         editPassword=(EditText)findViewById(R.id.editPassword);
+        editPassword=(EditText)findViewById(R.id.editPassword);
 
         btnSignIn=(Button)findViewById(R.id.btnSignIn);
         btnRegister=(Button)findViewById(R.id.btnRegister);
